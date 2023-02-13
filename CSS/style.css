@@ -7,14 +7,21 @@
     width: 6%;
 }
 
-.padding-top-zero {
-    padding-top: 0px;
-}
-
-.padding-bottom-zero {
-    padding-bottom: 0px;
-}
-
 #title-Page {
     background-color: #BBE1FA;
+}
+
+.navigation-section {
+    padding: 3% 10% 1%;
+}
+
+.menu-button {
+    color: #0F4C75;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+}
+
+.menu-item {
+    padding-left: 3%;
+    padding-right: 3%;
 }
