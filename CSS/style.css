@@ -10,6 +10,7 @@ header {
 #home--page {
     background-color: #BBE1FA;
     text-align: center;
+    margin-bottom: 8rem;
 }
 
 .logo--detail {
@@ -26,7 +27,25 @@ h1 {
 h2 {
     color: #0F4C75;
     padding: 1rem 0 1rem;
+    margin: 0 auto 0;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     padding-bottom: 7rem;
+}
+
+.skills-section {
+    padding-right: 15%;
+    padding-left: 15%;
+}
+
+.skill--divs {
+    text-align: center;
+    width: 25rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.icon--skill {
+    font-size: 6rem;
+    color: #1B262C;
 }
