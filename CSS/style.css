@@ -1,27 +1,18 @@
-.background-navigation {
-    background-color: #1B262C;
+header {
+    background-color: #0F4C75;
 }
 
-.size-6 {
-    height: 6%;
-    width: 6%;
+.nav--link {
+    color: #BBE1FA;
+    margin: 1rem 2rem 1rem;
 }
 
-#title-Page {
+#home--page {
     background-color: #BBE1FA;
+    text-align: center;
 }
 
-.navigation-section {
-    padding: 3% 10% 1%;
-}
-
-.menu-button {
-    color: #0F4C75;
-    font-family: 'Ubuntu', sans-serif;
-    font-weight: 500;
-}
-
-.menu-item {
-    padding-left: 3%;
-    padding-right: 3%;
+.logo--detail {
+    width: 30rem;
+    margin: 5% 0 0;
 }
