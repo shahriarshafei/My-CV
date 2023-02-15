@@ -7,10 +7,14 @@ header {
     margin: 1rem 2rem 1rem;
 }
 
+.toggler--color {
+    color: #3282B8;
+}
+
 #home--page {
     background-color: #BBE1FA;
     text-align: center;
-    margin-bottom: 8rem;
+    margin-bottom: 5rem;
 }
 
 .logo--detail {
@@ -36,6 +40,7 @@ h2 {
 .skills-section {
     padding-right: 15%;
     padding-left: 15%;
+    text-align: center;
 }
 
 .skill--divs {
@@ -48,4 +53,21 @@ h2 {
 .icon--skill {
     font-size: 6rem;
     color: #1B262C;
+}
+
+.nav--link--2 {
+    color: #3282B8;
+    margin: 1rem 2rem 1rem;
+}
+
+footer {
+    background-color: #1B262C;
+    text-align: center;
+}
+
+.footer-note {
+    color: #3282B8;
+    margin-bottom: 0;
+    padding-bottom: 1rem;
+    font-size: 0.7rem;
 }
