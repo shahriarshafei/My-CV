@@ -19,7 +19,8 @@ nav {
 }
 
 .toggler--color {
-    color: #3282B8;
+    color: #BBE1FA;
+    border-color: #0F4C75;
 }
 
 #home--page {
@@ -67,7 +68,7 @@ h2 {
 }
 
 .nav--link--2 {
-    color: #3282B8;
+    color: #BBE1FA;
     margin: 1rem 2rem 1rem;
 }
 
