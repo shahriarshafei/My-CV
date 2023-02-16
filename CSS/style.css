@@ -97,6 +97,31 @@ h3 {
     margin-bottom: 1rem;
 }
 
+.contact--div{
+    margin: 7rem 25% 7rem;
+}
+
+.form--font {
+    color: #0F4C75;
+}
+
+.btn {
+    -webkit-border-radius: 13;
+    -moz-border-radius: 13;
+    border-radius: 13px;
+    font-family: Arial;
+    color: #BBE1FA;
+    font-size: 16px;
+    background: #0F4C75;
+    padding: 5px 10px 5px 10px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3282B8;
+    text-decoration: none;
+  }
+
 .nav--link--2 {
     color: #BBE1FA;
     margin: 1rem 2rem 1rem;
