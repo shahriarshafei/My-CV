@@ -1,3 +1,12 @@
+@media (max-width: 800px) {
+
+    .logo--detail {
+        width: 20rem!important;
+        margin: 11rem 0 1%;
+    }
+    
+}
+
 header {
     background-color: #0F4C75;
 }
